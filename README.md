@@ -14,6 +14,7 @@ and run.
     * [echo-server-copy](tutorial-code/io/src/echo-server-copy.rs)
     * [echo-server](tutorial-code/io/src/echo-server.rs)
 * [mini-tokio](tutorial-code/mini-tokio/src/main.rs)
+* [file-touch](tutorial-code/file-touch/src/main.rs)
 
 ## Contributing
 
